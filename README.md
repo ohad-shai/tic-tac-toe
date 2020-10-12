@@ -1,4 +1,4 @@
-## A tic-tac-toe game, developed in C# (console environment).
+## A tic-tac-toe game, developed in C# (Console Application).
 
 - Developed as a final project in OOP - as part of the .NET web development course in John Bryce college.
 
